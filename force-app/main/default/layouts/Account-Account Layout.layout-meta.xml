@@ -30,8 +30,7 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>UoM_Test1__c</field>
-            </layoutItems>
-            
+            </layoutItems>            
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
