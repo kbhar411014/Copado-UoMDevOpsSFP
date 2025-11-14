@@ -23,6 +23,10 @@
                 <behavior>Edit</behavior>
                 <field>UoM_Business_Offering__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>UoM_Is_Active__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
